@@ -1,6 +1,6 @@
 ## <h2> Olá, eu sou Nathan 👋 </h2> 
 
-<img width="35%" align="right" alt="Development" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+<img width="60%" align="right" alt="Development" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
 - Apaixonado por programação, sou um desenvolvedor de software estudando na plataforma <strong>Curso em video</strong>. Também tenho conhecimento linguagem python.  
