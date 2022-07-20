@@ -12,9 +12,9 @@
 
 - 👨🏻‍💻 Atualmente eu vivo codando e hackeando, estou muito focado em aprender cada vez mais a respeito de Hacking e Front-End.<br>
 
-- 🖥️ Quando se trata de Front-end eu curto utilizar o React, gosto de pensar em como fazer a lógica, reutilizar componentes e manter o código organizado. Fazer um layout bonito usando o CSS é minha especialidade.
-- 🖥️ Quando se trata de Hacking eu curto configurar a minha maquina com as ferramentas necessaias. As ferramentas qu mais uso sãoo nmap, setoolkit, 
-
+- 🖥️ Quando se trata de Front-end, fazer um layout bonito usando o CSS é minha especialidade.
+- 🖥️ Quando se trata de Hacking eu curto configurar a minha maquina com as ferramentas necessarias ou utiliar o Kali-Linux.
+- 
 ## Minhas tecnologias e Ferramentas:
 <br>
 <div style="display: inline_block"><br>
